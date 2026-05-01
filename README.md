@@ -32,3 +32,10 @@ Launch the game and enjoy!
 Touch/Click: Simply tap or click on an empty cell in the 3x3 grid to place your mark (X or O).
 
 Reset Button: Quickly clear the board to start a new round.
+
+# 📂 Project Structure
+Assets/Scripts: Contains the C# logic for game management and board interaction.
+
+Assets/Prefabs: Modular game objects for cells and UI elements.
+
+Assets/Sprites: All 2D visual assets and icons.
