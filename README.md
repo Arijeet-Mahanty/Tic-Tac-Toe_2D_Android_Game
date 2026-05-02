@@ -11,7 +11,7 @@ Interactive Design: Visual feedback for player turns, wins, and draws.
 Lightweight Performance: Built with 2D sprites and optimized C# scripts for high performance.
 
 # 🛠️ Built With
-Unity 2022.3.46f1
+Unity 6000.2.14f1
 
 C#: For game logic and state management.
 
